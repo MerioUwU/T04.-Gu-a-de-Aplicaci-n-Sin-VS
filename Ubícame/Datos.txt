@@ -1,0 +1,18 @@
+1,Mario Silva,Streamer de Minecraft,21
+2,Isaias Paniagua,Asesino a Sueldo,20
+3,Alan Garcia,Guitarrista digtal,20
+4,Emmanuel Monroy,Terrorista,21
+5,Alejandro Perez,Comediante,30
+6,Sahid Mohammed,Productor de explosivos plasticos,44
+7,Miguelin Gonzales,Anime Fan,19
+8,Pedro Zuñiga,Narco,21
+9,Mujer Luna Bella,Monja,60
+10,David Casas,Asaltante a mano armada,20
+11,Vicente Cazares,Pederasta profesional,19
+12,Kenneth Castañeda,Bajista de banda sin fama,22
+13,Michelle Soto,Ser mi chikinena,23
+14,Daeneryss Targarien,Fortnite Player,25
+15,Juan Manuel Hernandez,Patron del Narco,35
+16,El Chapo Efron,Estrella de Cine,32
+17,Jenny Rivera,Aviadora,42
+18,Tupac,Rapero,27

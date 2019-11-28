@@ -1,0 +1,11 @@
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.exe
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.deps.json
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.runtimeconfig.json
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.runtimeconfig.dev.json
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.dll
+C:\Users\super\Documents\Ubícame\bin\Debug\netcoreapp3.0\Ubícame.pdb
+C:\Users\super\Documents\Ubícame\obj\Debug\netcoreapp3.0\Ubícame.csprojAssemblyReference.cache
+C:\Users\super\Documents\Ubícame\obj\Debug\netcoreapp3.0\Ubícame.AssemblyInfoInputs.cache
+C:\Users\super\Documents\Ubícame\obj\Debug\netcoreapp3.0\Ubícame.AssemblyInfo.cs
+C:\Users\super\Documents\Ubícame\obj\Debug\netcoreapp3.0\Ubícame.dll
+C:\Users\super\Documents\Ubícame\obj\Debug\netcoreapp3.0\Ubícame.pdb
